@@ -1,6 +1,6 @@
 # Riktlinjer för hanteringen av öppen källkod
 
-Dessa riktlinjer är framtagna för att gälla öppen källkod inom kommunsfären.
+Dessa riktlinjer är framtagna för att gälla öppen källkod hos Sundsvalls kommun och är möjlig att återanvända inom hela kommunsfären.
 
 ## Bakgrund
 
