@@ -1,4 +1,4 @@
-# Riktlinjer för hanteringen av öppen källkod (observera: ett förslag!)
+# Riktlinjer för hanteringen av öppen källkod
 
 Dessa riktlinjer är framtagna för att gälla öppen källkod inom kommunsfären.
 
