@@ -1,6 +1,6 @@
 # Riktlinjer för hanteringen av öppen källkod
 
-Dessa riktlinjer är framtagna för att gälla öppen källkod hos Sundsvalls kommun och är möjlig att återanvända inom hela kommunsfären.
+Dessa riktlinjer är framtagna för att gälla öppen källkod hos Sundsvalls kommun.
 
 ## Bakgrund
 
@@ -30,7 +30,7 @@ Följande lista är en anpassning av de punkter som Försäkringskassan tar upp 
 
 ### Hur publicerar vi
 
-Vi har valt GitHub som den plats där vi publicerar öppen källkod. För de tjänster som kan anses lämpliga för publicering, enligt checklistan ovan, gäller att den huvudsakliga utvecklingen skall ske mot ett publikt kodarkiv (repository) under vår organisation på [https://github.com/OpenMunicipality]. Anledningen till denna strategi är att öka möjligheten till samverkan och stimulerande av livskraftiga ekosystem. Genom att inte låsa in utvecklingen utom räckhåll för externa parter, ökar vi möjligheten för dessa att bidra till och dra nytta av det arbete vi gör.
+Vi har valt GitHub som den plats där vi publicerar öppen källkod. För de tjänster som kan anses lämpliga för publicering, enligt checklistan ovan, gäller att den huvudsakliga utvecklingen skall ske mot ett publikt kodarkiv (repository) under vår organisation på [https://github.com/OpenSundsvall]. Anledningen till denna strategi är att öka möjligheten till samverkan och stimulerande av livskraftiga ekosystem. Genom att inte låsa in utvecklingen utom räckhåll för externa parter, ökar vi möjligheten för dessa att bidra till och dra nytta av det arbete vi gör.
 
 För publicering har två huvudsakliga licensformer valts ut för vårt arbete.
 
