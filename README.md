@@ -55,3 +55,5 @@ Rapporterade buggar och initierade pull requests prioriteras i respektive utveck
 ## Vidmakthållande av riktlinjen
 
 Hur löpande förbättringar samt kvalitetskontroll av denna riktlinje skötas måste utredas.
+
+Copyright (c) 2021 Sundsvalls kommun
